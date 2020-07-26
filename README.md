@@ -2,7 +2,7 @@
 
 This is a bash script written for help to run VPN via wireguard.
 
-## Requements
+## Requirements
 * Bash
 * Wireguard
 
