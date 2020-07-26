@@ -23,4 +23,4 @@ Assign your server hostname or ip to this.
 That's all. Now you can `$ ./wg.sh up` \
 To add a client type `$ ./wg.sh add %username% 10.10.0.*`, where %username% - client's name and * - last digit in ip \
 Script will create %username%.conf for your client \
-Clients are saved in /etc/wireguard/clients.conf \
+Clients are saved in /etc/wireguard/clients.conf
